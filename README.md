@@ -9,4 +9,4 @@
   <li><b>Teknolojiler:</b> HTML, CSS (Tailwind veya SCSS), JavaScript (GSAP ile animasyonlar)</li>
 </ul>
 
-<p>Önce bir wireframe çizip (wireframe dosyasından ulaşılabilir.), sonra kodlamaya geçildi.</p>
+<i>Not: Önce bir wireframe çizilip (<mark>wireframe</mark> dosyasından ulaşılabilir), ardından kodlamaya geçildi.</i>
